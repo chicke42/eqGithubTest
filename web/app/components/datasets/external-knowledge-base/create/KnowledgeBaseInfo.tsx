@@ -46,7 +46,7 @@ const KnowledgeBaseInfo: React.FC<KnowledgeBaseInfoProps> = ({ name, description
             />
             <a
               className='flex py-0.5 gap-1 self-stretch'
-              href='https://docs.dify.ai/features/datasets#how-to-write-a-good-dataset-description'
+              href='https://docs.zhuangxiaozhi.ai/features/datasets#how-to-write-a-good-dataset-description'
               target="_blank"
               rel="noopener noreferrer"
             >

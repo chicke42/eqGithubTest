@@ -6,7 +6,7 @@ const translation = {
   },
   webapp: {
     title: 'WebAppブランドのカスタマイズ',
-    removeBrand: 'Powered by Difyを削除',
+    removeBrand: 'Powered by 装小智を削除',
     changeLogo: 'Powered byブランド画像を変更',
     changeLogoTip: '最小サイズ40x40pxのSVGまたはPNG形式',
   },

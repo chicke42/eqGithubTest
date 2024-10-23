@@ -187,4 +187,7 @@ pyrightconfig.json
 api/.vscode
 
 .idea/
-.vscode
+.vscodenode_modules/
+*.log
+*.gz
+*.zip

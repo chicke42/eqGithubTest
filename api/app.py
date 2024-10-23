@@ -222,10 +222,10 @@ def register_blueprints(app):
     )
 
     app.register_blueprint(web_bp)
-
+    #resources={r"/*": {"origins": app.config["CONSOLE_CORS_ALLOW_ORIGINS"]}},
     CORS(
         console_app_bp,
-        resources={r"/*": {"origins": app.config["CONSOLE_CORS_ALLOW_ORIGINS"]}},
+        resources={r"/*": {"origins": "*"}},
         supports_credentials=True,
         allow_headers=["Content-Type", "Authorization"],
         methods=["GET", "PUT", "POST", "DELETE", "OPTIONS", "PATCH"],

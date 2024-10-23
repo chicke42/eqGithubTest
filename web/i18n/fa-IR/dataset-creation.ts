@@ -62,7 +62,7 @@ const translation = {
       run: 'اجرا',
       firecrawlTitle: 'استخراج محتوای وب با fireFirecrawl',
       firecrawlDoc: 'مستندات Firecrawl',
-      firecrawlDocLink: '<a href="https://docs.dify.ai/guides/knowledge-base/sync-from-website">https://docs.dify.ai/guides/knowledge-base/sync-from-website</a>',
+      firecrawlDocLink: '<a href="https://docs.装小智.ai/guides/knowledge-base/sync-from-website">https://docs.装小智.ai/guides/knowledge-base/sync-from-website</a>',
       options: 'گزینهها',
       crawlSubPage: 'خزش صفحات فرعی',
       limit: 'محدودیت',

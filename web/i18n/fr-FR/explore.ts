@@ -16,7 +16,7 @@ const translation = {
     },
   },
   apps: {
-    title: 'Explorez les applications par Dify',
+    title: 'Explorez les applications par 装小智',
     description: 'Utilisez ces applications modèles instantanément ou personnalisez vos propres applications basées sur les modèles.',
     allCategories: 'Recommandé',
   },

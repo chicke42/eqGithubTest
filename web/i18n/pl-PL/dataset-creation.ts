@@ -53,7 +53,7 @@ const translation = {
     },
     website: {
       limit: 'Ograniczać',
-      firecrawlDocLink: 'https://docs.dify.ai/guides/knowledge-base/sync-from-website',
+      firecrawlDocLink: 'https://docs.装小智.ai/guides/knowledge-base/sync-from-website',
       firecrawlDoc: 'Dokumentacja Firecrawl',
       unknownError: 'Nieznany błąd',
       fireCrawlNotConfiguredDescription: 'Skonfiguruj Firecrawl z kluczem API, aby z niego korzystać.',
